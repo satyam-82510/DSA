@@ -1,8 +1,10 @@
+// TWO VARIETY ASK IN TWO SUM   1.SAY YES OR NO     2. SAY THE INDEX OF IF YES
+
 //1. BRUTE FORCE APPROACH 
 /*
 class Solution {
       public int[] twoSum(int[] nums, int target) {
-        int n = nums.length;
+          int n = nums.length;
         
 
         for (int i=0; i<n-1; i++) {
@@ -23,48 +25,9 @@ class Solution {
 
 
 
+// 2. BETTER OR OPTIMAL ACCORDING TO ITS VARIETY OF TWO SUM ASK 
 
-//2. BETTER APPROCH - our mistakes 
-// class Solution {
-// public int[] twoSum(int[] nums, int target ) {
-// // Hashmap<int, int > map = new Hashmap<int, int>
-// // unordered_map <int, int> m;
-// HashMap<Integer, Integer> map = new HashMap<>();
-// int n = nums.length;
-//     //  for (i=0; i<n; i++){
-//  //  int first = nums[i];     // int second = target - first;
-         
-//          //if(m.find(sec)!= m.end() ) {
-//    // Iterate over all elements
-//         for (int i = 0; i < n; i++) {
-//            // int first = nums[i];
-//             //int complement = target - first;
-//             // or direct write 
-//             int complement = target - nums[i];
-//             // Check if complement exists in map
-            // if (map.containsKey(complement)) {
-            //  // int ans[]= {map.get(complement), i}; 
-            //    //return ans;  
-            //   // Pair found
-            //    return new int[] { map.get(complement), i};
-              
-//             }
-//             // Store current element and its index
-//             map.put(arr[i], i);
-//         }
-//         // No pair found
-//      // int arr []= {};
-//      // return arr;
-//      return new int[] {};
-//     //  return new int int [0];
-//       } 
-// }
-
-
-
-
-// 2. BETTER OR OPTIMAL AS 
-
+/*
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -72,7 +35,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
-                       
+
             if (map.containsKey(complement)) {
                 return new int[] { map.get(complement), i };
             }
@@ -83,4 +46,73 @@ class Solution {
         return new int[]{}; // Fallback if no solution found
     }
 }
+*/
+
+
+//3. OPTIMAL FOR FIRST VARIETY ONLY
+//NOT RUN
+/*
+import java.util.Arrays;
+
+class Solution { 
+    public boolean twoSumExist(int[] nums, int target) { 
+        Arrays.sort(nums); 
+        int left = 0; 
+        int right = nums.length - 1; 
+        
+        while (left < right) { 
+            int sum = nums[left] + nums[right]; 
+            
+            if (sum == target) { 
+                return true; 
+            } else if (sum < target) { 
+                left++; 
+            } else { 
+                right--; 
+            } 
+        } 
+        return false; 
+    } 
+}
+*/
+
+
+//RUNNABLE CODE
+
+import java.util.Arrays;
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int n = nums.length;
+
+        // 1D array storing indices: {0, 1, 2, ..., n - 1}
+        Integer[] index = new Integer[n];
+        for (int i = 0; i < n; i++) {
+            index[i] = i;
+        }
+
+        // Sort the index array based on corresponding values in nums
+        Arrays.sort(index, (a, b) -> Integer.compare(nums[a], nums[b]));
+
+       // CONCEPT
+        // Two-pointer search using the sorted indices
+        int left = 0;
+        int right = n - 1;
+
+        while (left < right) {
+            int sum = nums[index[left]] + nums[index[right]];
+
+            if (sum == target) {
+                return new int[] { index[left], index[right] };
+            } else if (sum < target) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+
+        return new int[] {};
+    }
+}
+
 
