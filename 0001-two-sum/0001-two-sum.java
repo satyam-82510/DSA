@@ -1,5 +1,5 @@
 //1. BRUTE FORCE APPROACH 
-
+/*
 class Solution {
       public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-
+*/
 
 
 
@@ -65,26 +65,21 @@ class Solution {
 
 // 2. BETTER OR OPTIMAL AS 
 
-// class Solution {
-//     public int[] twoSum(int[] nums, int target) {
-//         HashMap<Integer, Integer> map = new HashMap<>();
-//         int n = nums.length;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
 
-//         for (int i = 0; i < n; i++) {  //TC = O(N)
-//             //int first = nums[i];
-//             //int complement = target - first;
-//             int complement = nums[i];
+        for (int i = 0; i < n; i++) {
+            int complement = target - nums[i];
 
-//             if (map.containsKey(complement)) { //TC = O(1)BEST AND AVERAGE  AND 
-//             // IN WORST CASE O(N) TC FOR SEARCHING ELEMENT IN A MAP 
-//                 return new int[] { map.get(complement), i };
-//             }
+            if (map.containsKey(complement)) {
+                return new int[] { map.get(complement), i };
+            }
 
-//             map.put(nums[i], i); 
-//         }
+            map.put(nums[i], i);
+        }
 
-//         return new int[]{}; // Fallback if no solution found
-//     }
-// }  
-
-
+        return new int[]{}; // Fallback if no solution found
+    }
+}
