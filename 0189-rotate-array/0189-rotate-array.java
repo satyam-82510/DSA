@@ -13,6 +13,10 @@ class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n; 
+        if(k<0)
+    {
+        k+=nums.length;
+    }
         //if we first reverse the  part wise(k step) then whole array
       
         reverse(nums, 0, n-k-1);
