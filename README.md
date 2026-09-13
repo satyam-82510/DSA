@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyam-82510/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyam-82510/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyam-82510/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
