@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyam-82510/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/satyam-82510/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyam-82510/DSA/tree/master/0229-majority-element-ii) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/satyam-82510/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/satyam-82510/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/satyam-82510/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/satyam-82510/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
 ## Stack
