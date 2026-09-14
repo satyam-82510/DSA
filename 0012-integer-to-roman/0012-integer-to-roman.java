@@ -38,13 +38,24 @@ class Solution {
     String roman = "";
     int value[]= {1000,900,500,400,100,90,50,40,10,9,5,4,1};
     String[] romanletters = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+                    
+//   CORRECTED BUT SLOW:  for(int i=0;i<value.length;i++){
+//         while(num>=value[i]){
+//         roman += romanletters[i];
+//         num -= value[i];
+//         }
+//     }
+//     return roman ;
+//     }
+// }
 
-    for(int i=0;i<value.length;i++){
-        while(num>=value[i]){
-        roman += romanletters[i];
-        num -= value[i];
+    StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < value.length; i++) {
+            while (num >= value[i]) {
+                num -= value[i];
+                sb.append(romanletters[i]);
+            }
         }
-    }
-    return roman ;
+    return sb.toString();
     }
 }
