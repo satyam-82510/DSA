@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/satyam-82510/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/satyam-82510/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/satyam-82510/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam-82510/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-82510/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -102,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-82510/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
