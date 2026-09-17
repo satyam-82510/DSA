@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyam-82510/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/satyam-82510/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
