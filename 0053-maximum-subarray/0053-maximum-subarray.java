@@ -12,6 +12,7 @@ class Solution {
         sum=0;
     }
     }
+    if(ms==Integer.MIN_VALUE) return 0;
     // return ms; give error as lossy conversion as function return a need of int return answer value in int
     return (int) ms;
     }
