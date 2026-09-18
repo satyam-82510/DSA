@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
+| [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
