@@ -45,6 +45,22 @@
 // }
 
 
+// optimal ver fast 
+class Solution {
+    public String reverseWords(String s) {
+        String[] words = s.trim().split("\\s+");
+        StringBuilder result = new StringBuilder();
+        for(int i = words.length-1; i>=0;i--){
+            result.append(words[i]);
+            if(i>0){
+                result.append(" ");
+            }
+        }
+
+        return result.toString();
+    }
+}
+
 // // // method 2 : optimal approach 
 // check what error in this with below corrected one
 // class Solution {
@@ -74,41 +90,40 @@
 //     }
 //  }
 
-class Solution {
-    public String reverseWords(String s) {
-        StringBuilder res = new StringBuilder();
-        int startIndex = s.length() - 1;
+// class Solution {
+//     public String reverseWords(String s) {
+//         StringBuilder res = new StringBuilder();
+//         int startIndex = s.length() - 1;
 
-        while (startIndex >= 0) {
-            // Skip spaces
-            while (startIndex >= 0 && s.charAt(startIndex) == ' ') {
-                startIndex--;
-            }
+//         while (startIndex >= 0) {
+//             // Skip spaces
+//             while (startIndex >= 0 && s.charAt(startIndex) == ' ') {
+//                 startIndex--;
+//             }
 
-            // Exit if no more words are left
-            if (startIndex < 0) {
-                break;
-            }
+//             // Exit if no more words are left
+//             if (startIndex < 0) {
+//                 break;
+//             }
 
-            int endIndex = startIndex;
+//             int endIndex = startIndex;
 
-            // Find the start of the current word
-            while (startIndex >= 0 && s.charAt(startIndex) != ' ') {
-                startIndex--;
-            }
+//             // Find the start of the current word
+//             while (startIndex >= 0 && s.charAt(startIndex) != ' ') {
+//                 startIndex--;
+//             }
 
-            // Append the extracted word
-            if (res.length() == 0) {
-                res.append(s.substring(startIndex + 1, endIndex + 1));
-            } else {
-                res.append(" ").append(s.substring(startIndex + 1, endIndex + 1));
-            }
-        }
+//             // Append the extracted word
+//             if (res.length() == 0) {
+//                 res.append(s.substring(startIndex + 1, endIndex + 1));
+//             } else {
+//                 res.append(" ").append(s.substring(startIndex + 1, endIndex + 1));
+//             }
+//         }
 
-        return res.toString();
-    }
-}
-
+//         return res.toString();
+//     }
+// }
 
 
         /* Case-by-Case Breakdown with Examples
