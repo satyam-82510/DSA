@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyam-82510/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/satyam-82510/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satyam-82510/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyam-82510/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 ## String
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
