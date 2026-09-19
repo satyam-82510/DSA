@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyam-82510/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam-82510/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
