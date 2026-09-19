@@ -45,7 +45,7 @@
 // }
 
 
-// optimal ver fast 
+// optimal very fast 
 class Solution {
     public String reverseWords(String s) {
         String[] words = s.trim().split("\\s+");
@@ -60,6 +60,126 @@ class Solution {
         return result.toString();
     }
 }
+
+// solution fast 
+
+// class Solution {
+//     public String reverseWords(String s) {
+        
+//         String[] words = s.trim().split("\\s+");
+        
+//         StringBuilder reversed = new StringBuilder();
+        
+        
+//         for (int i = words.length - 1; i >= 0; i--) {
+//             reversed.append(words[i]);
+//             if (i > 0) {
+//                 reversed.append(" ");
+//             }
+//         }
+        
+       
+//         return reversed.toString();
+//     }
+// }
+
+// //  fast 
+// class Solution {
+//     public String reverseWords(String s) {
+//         String[] arr=s.trim().split("\\s+");
+//         int i=0,j=arr.length-1;
+//         while(i<j){
+//             String temp=arr[i];
+//             arr[i]=arr[j];
+//             arr[j]=temp;
+//             i++;
+//             j--;
+//         }
+//         return String.join(" ",arr);
+//     }
+// }
+        //Optimal
+
+//         int n=s.length();
+//         int i=n-1;//start from the end the string
+
+//         StringBuilder res=new StringBuilder();
+
+//         while(i>=0){
+//              while(i>=0 && s.charAt(i)==' '){
+//             i--;
+//         }
+//             if(i<0){
+//                 break;
+//             }
+//             int end=i;
+//             while(i>=0 && s.charAt(i)!=' '){
+//                 i--;
+//             }
+//             if(res.length()>0){
+//                 res.append(" ");
+//             }
+//             res.append(s.substring(i+1,end+1));
+//         }
+
+// return res.toString();
+
+        //Brute force
+        // int n = s.length();
+        // List<String> list = new ArrayList<>();
+        // int i = 0;
+
+        // while (i < n) {
+
+        //     // 1. Skip spaces
+        //     while (i < n && s.charAt(i) == ' ') {
+        //         i++;
+        //     }
+
+        //     // 2. Build one word
+        //     String word = "";
+        //     while (i < n && s.charAt(i) != ' ') {
+        //         word += s.charAt(i);
+        //         i++;
+        //     }
+
+        //     // 3. Add only complete word
+        //     if (!word.isEmpty()) {
+        //         list.add(word);
+        //     }
+        // }
+
+        // // 4. Reverse list
+        // Collections.reverse(list);
+
+        // // 5. Join with single spaces
+        // StringBuilder res = new StringBuilder();
+        // for (i = 0; i < list.size(); i++) {
+        //     res.append(list.get(i));
+        //     if (i < list.size() - 1) {
+        //         res.append(" ");
+        //     }
+        // }
+
+        // return res.toString();
+    // }
+// }
+
+// class Solution {
+//     public String reverseWords(String s) {
+
+//         String[] word= s.split("\\s+");
+
+//         String ans="";
+
+//         for(int i = word.length-1; i >=0 ; i--){
+//             ans+=word[i];
+//             ans+= " ";
+//         }
+//         return ans.trim();
+        
+//     }
+// }
 
 // // // method 2 : optimal approach 
 // check what error in this with below corrected one
