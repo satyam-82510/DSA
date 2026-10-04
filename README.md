@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam-82510/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-82510/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/satyam-82510/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam-82510/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/satyam-82510/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/satyam-82510/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/satyam-82510/DSA/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/satyam-82510/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
