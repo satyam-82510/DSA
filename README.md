@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/satyam-82510/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/satyam-82510/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/satyam-82510/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam-82510/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/satyam-82510/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/satyam-82510/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam-82510/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyam-82510/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/satyam-82510/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/satyam-82510/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyam-82510/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/satyam-82510/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/satyam-82510/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/satyam-82510/DSA/tree/master/0152-maximum-product-subarray) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyam-82510/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
