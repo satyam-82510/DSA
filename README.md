@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-82510/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/satyam-82510/DSA/tree/master/0917-reverse-only-letters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam-82510/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyam-82510/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/satyam-82510/DSA/tree/master/0917-reverse-only-letters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam-82510/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam-82510/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam-82510/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Z Algorithm
 |  |
 | ------- |
