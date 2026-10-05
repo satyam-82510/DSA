@@ -23,7 +23,7 @@ class Solution {
         if (curr == null){
             return;
         }
-        if(currentDepth==result.size()){
+        if(currentDepth==result.size()){// when vist first time a depth the result is added next time automatically list.size is +1 as we already add in previous one one element in list
             result.add(curr.val);
         }
         rightView(curr.right,result,currentDepth + 1);
