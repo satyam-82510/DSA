@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
 ## Recursion
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/satyam-82510/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/satyam-82510/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/satyam-82510/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
 ## String Matching
 |  |
 | ------- |
@@ -259,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/satyam-82510/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-82510/DSA/tree/master/0415-add-strings) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
