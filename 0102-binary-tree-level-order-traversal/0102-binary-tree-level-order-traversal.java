@@ -32,3 +32,34 @@ class Solution {
     return wrapList;
     }
 }
+
+// using TreeNode = q.poll() store than cur use METHOD Same
+// class Solution {
+//     public List<List<Integer>> levelOrder(TreeNode root) {
+//         List<List<Integer>> ans = new ArrayList<>();
+//         Queue<TreeNode> q = new LinkedList<>();
+
+//         if(root == null)
+//             return ans;
+
+//         q.offer(root);
+
+//         while(!q.isEmpty()){
+//             int len = q.size();
+//             List<Integer> list = new ArrayList<>();
+
+//             for(int i=1;  i<=len; i++){
+//                 TreeNode cur = q.poll();
+//                 list.add(cur.val);
+//                 if(cur.left != null)
+//                     q.offer(cur.left);
+//                 if(cur.right != null)
+//                     q.offer(cur.right);
+//             }
+
+//             ans.add(list);
+//         }
+
+//         return ans;
+//     }
+// }
