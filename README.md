@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/satyam-82510/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/satyam-82510/DSA/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam-82510/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyam-82510/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/satyam-82510/DSA/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam-82510/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyam-82510/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyam-82510/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyam-82510/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyam-82510/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
