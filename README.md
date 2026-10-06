@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyam-82510/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyam-82510/DSA/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyam-82510/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/satyam-82510/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/satyam-82510/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/satyam-82510/DSA/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satyam-82510/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/satyam-82510/DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
 ## Quicksort
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/satyam-82510/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/satyam-82510/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/satyam-82510/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
