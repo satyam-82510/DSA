@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/satyam-82510/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyam-82510/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -340,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/satyam-82510/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
