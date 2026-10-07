@@ -3,7 +3,7 @@ class Solution {
         int rev=0;
         while(x!=0){
             int digit= x%10;
-            // if(rev>(int) 1e9 /10 || rev<(int) -1e9/10){//FIRST STEP//good practice take Integer.MAX_VALUE =(int)1e9
+            // if(rev>(int) 1e9 /10 || rev<(int) -1e9/10){//FIRST STEP//good practice take Integer.MAX_VALUE =(int)1e9 BUT NOTE TEST CASE FAIL AS NOT GENERALLY MOST USE THIS
             if(rev>Integer.MAX_VALUE/10 || rev<Integer.MIN_VALUE/10){ 
                 return 0;
             }
