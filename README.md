@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/satyam-82510/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/satyam-82510/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,9 +354,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-82510/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyam-82510/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
