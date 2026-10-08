@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/satyam-82510/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam-82510/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/satyam-82510/DSA/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/satyam-82510/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/satyam-82510/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyam-82510/DSA/tree/master/0189-rotate-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/satyam-82510/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/satyam-82510/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/satyam-82510/DSA/tree/master/0785-is-graph-bipartite) |
 ## Recursion
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam-82510/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyam-82510/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/satyam-82510/DSA/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/satyam-82510/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/satyam-82510/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satyam-82510/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/satyam-82510/DSA/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/satyam-82510/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/satyam-82510/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyam-82510/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/satyam-82510/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/satyam-82510/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/satyam-82510/DSA/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/satyam-82510/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/satyam-82510/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/satyam-82510/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
