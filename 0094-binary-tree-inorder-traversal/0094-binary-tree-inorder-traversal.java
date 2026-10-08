@@ -152,3 +152,20 @@ class Solution {// THAT IS A INORDER (FOR PREORDER A ONE LINE CHANGE IN A CODE W
 //         return list;
 //     }
 // } 
+
+// THIS IS A SIMPLE INORDER APPROACH BELOW AS NO OTHER QUESTION SPECIFIC OF MORRIS TRAVERSAL ON LEETCODE
+
+// class Solution {
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         List<Integer> li=new ArrayList<>();
+//         inOrder(root,li);
+//         return li;
+//     }
+//     void inOrder(TreeNode root,List<Integer> li)
+//     {
+//         if(root==null) return;
+//         inOrder(root.left,li);
+//         li.add(root.val);
+//         inOrder(root.right,li);
+//     }
+// }
