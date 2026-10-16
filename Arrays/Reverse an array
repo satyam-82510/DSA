@@ -1,0 +1,90 @@
+//Time Complexity: O(n)
+// Space Complexity: O(1) (no extra array needed)
+// here in first my approach
+public static void reverseArray(int[] arr) {
+int n= arr.length;
+int left= 0;//intitalisation of a pointer(two pointer
+int right = n-1;//if intialise an array length n=arr.length-1 then no need to -1 in further code and we can this n then
+while(left<right){//O(n)
+  int temp=arr[left];
+   arr[left]=arr[right];
+   arr[right]= temp;
+  left++;// we forget always to increment and decrement an pointer(must to update an pointer) before go loop further value or on next step                                                      
+  right--;
+  }
+
+/*Here are the key takeaways, edge cases, core DSA principles, and small code fixes related to your Array Reversal code. You can note these down for future revision so you can handle similar problems effortlessly during assessments and interviews.
+1. Syntax Fixes in Your Code
+Before saving this note, fix these syntax/logical errors in lines 8–10:
+// WRONG (from my before code):
+int temp=arr[left];
+int arr[left]=arr[right]; // Redeclaring 'int' is a syntax error in Java!
+int arr[right]= temp;      // Redeclaring 'int' is a syntax error!
+
+// CORRECT:
+int temp = arr[left];
+arr[left] = arr[right];
+arr[right] = temp;
+
+2. Fundamental Rules to Note for Revision
+A. Pointer Movement Rule
+ * The Golden Rule: In any Two-Pointer technique (opposite-ends or same-direction), always ensure pointers move toward their termination condition (left++, right--). Missing pointer updates lead to infinite loops.
+ * Condition Choice (left < right vs left <= right):
+   * When reversing/swapping, use left < right. When left == right (the middle element in an odd-length array), swapping an element with itself is unnecessary work.
+B. Crucial Edge Cases for Any Array Problem
+Always test these scenarios before declaring your solution complete:
+ * Null Check: if (arr == null) return;
+ * Empty Array: arr.length == 0
+ * Single Element Array: arr.length == 1 (Loop won't run, which is correct, but check for ArrayIndexOutOfBoundsException when initializing right = n - 1).
+ * Odd vs. Even Length:
+   * Even Length (e.g., [1, 2, 3, 4]): Pointers cross cleanly (left exceeds right).
+   * Odd Length (e.g., [1, 2, 3, 4, 5]): Pointers meet at the exact center (left == right), and the loop terminates safely.
+3. How Reversing Extends to Advanced DSA Problems
+Reversing an array/subarray is a building block for many complex interview questions:
+   /*
+ * =======================================================================================================================================================
+ * CONCEPT / TECHNIQUE          | PRACTICAL APPLICATION                                 | NOTE TO REMEMBER
+ * =======================================================================================================================================================
+ * Rotate Array by K steps      | Rotate arr by k positions in O(n) time and O(1) space.| Reverse total array -> Reverse first k elements -> Reverse remaining n-k.
+ * Palindrome Check             | Check if String / Array is palindrome.                | Use 2 pointers from ends (left, right) and compare arr[left] != arr[right].
+ * Reverse Subarray / Range     | Reverse elements only from index i to j.              | Write a helper method reverse(arr, start, end) to reuse cleanly in algorithms.
+ * Two-Pointer Framework        | Sorting, 2-Sum (Sorted), Trapping Rain Water.         | Opposite directional pointers converge to reduce time complexity from O(n^2) to O(n).
+ * =======================================================================================================================================================
+ */
+**Code start from here**
+public class ArrayReversal {
+
+    // Standard array reversal method
+    public static void reverseArray(int[] arr) {
+        // Edge case: null or single-element/empty array
+        if (arr == null || arr.length <= 1) {
+            return;
+        }
+        
+        int left = 0;
+        int right = arr.length - 1;
+        
+        while (left < right) {
+            int temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            left++;
+            right--;
+        }
+    }
+
+    // Helper method for reversing a specific range (Subarray / Range Reversal)
+    public static void reverseRange(int[] arr, int start, int end) {
+        if (arr == null || start < 0 || end >= arr.length || start >= end) {
+            return;
+        }
+        
+        while (start < end) {
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+            start++;
+            end--;
+        }
+    }
+}
