@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyam-82510/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/satyam-82510/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/satyam-82510/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/satyam-82510/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam-82510/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/satyam-82510/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-82510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
