@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam-82510/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-82510/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/satyam-82510/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/satyam-82510/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/satyam-82510/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyam-82510/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/satyam-82510/DSA/tree/master/0542-01-matrix) |
